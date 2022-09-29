@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>Ayushi</title>
+</head>
+<body>
+<h1>my info</h1>
+<p>my name is your name</p>
+<p>i am avaliable for hire<p>
+<p>my hour old price and the new price is</p>
+<hr>
+<h2>here is some of my clients</h2>
+<img src="https://media.istockphoto.com/photos/wild-grass-in-the-mountains-at-sunset-picture-id1322277517?s=612x612" height="100",width="100">
+<img src="https://media.istockphoto.com/photos/wild-grass-in-the-mountains-at-sunset-picture-id1322277517?s=612x612" height="100",width="100">
+<img src="https://media.istockphoto.com/photos/wild-grass-in-the-mountains-at-sunset-picture-id1322277517?s=612x612" height="100",width="100">
+<hr>
+<h1>my skills</h1>
+<ul>
+<li>html</li>
+<li>css</li>
+<li>javascript</li>
+<ul>
+<li>voejs</li>
+<li>reactijs</li>
+<li>angular</li>
+<ul>
+<li>4.v4.0</li>
+<li>4.v5.0</li>
+<li>4.v6.0</li>
+<li>4.v7.0</li>
+<li>4.v8.0</li>
+</ul>
+<li>svelte</li>
+</ul>
+<li>python</li>
+</ul>
+
+
+</body>
+</html>
+
+
+
